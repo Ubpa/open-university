@@ -7,7 +7,7 @@
 
 ## Majors
 
-- [计算机科学 (computer science)](majors/computer_science.md) 
+- [计算机科学 (computer science)](majors/computer_science) 
 
 ## Contributors
 
